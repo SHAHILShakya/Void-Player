@@ -5,272 +5,330 @@
 </p>
 
 <p align="center">
-  An advanced offline music player built for people who believe music deserves more than a basic play button.
+  A premium offline music player built around your library, your sound, and your way of listening.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-16.09.09--Aurora-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mode-100%25%20Offline-00C853?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ads-None-FF4081?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-16.09.09--Aurora-8B5CF6?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Mode-Offline-00C853?style=for-the-badge" alt="Offline" />
+  <img src="https://img.shields.io/badge/Ads-None-FF4081?style=for-the-badge" alt="No Ads" />
+</p>
+
+<p align="center">
+  <sub>Independent project • Designed & built by Shayu</sub>
 </p>
 
 ---
 
-## 🌌 About Void Player
+## 🌌 The Idea
 
-**Void Player** is a premium offline music player designed around one simple idea:
+**Void Player** is an advanced offline music player designed around a simple belief:
 
 > **Music should feel like an experience, not just playback.**
 
-It combines a cinematic interface, dynamic visual atmosphere, audio controls, listening analytics, personalization, and a deeply customizable playback experience.
+Instead of treating a local music library as a list of files, Void Player turns it into a personal listening environment with dynamic visuals, audio controls, playback automation, analytics, personalization, and a deliberately cinematic interface.
 
-Everything is designed around your local music library.
-
-**No streaming.  
-No ads.  
-No unnecessary distractions.**
-
-Just your music.
+No streaming feed competing for attention.  
+No ads interrupting a song.  
+Just your music, presented beautifully.
 
 ---
 
-## ✨ Highlights
+## ✨ What Makes Void Player Different
 
-- 🎵 Offline local music playback
-- 🎨 Dynamic color themes
-- 🌈 Liquid gradient visual atmosphere
-- 💿 Animated vinyl-style artwork
-- 🎚️ 10-band equalizer
-- 🔊 Audio enhancement controls
-- 📊 Live spectrum analytics
-- 🧬 Music DNA listening profile
-- 📈 Listening statistics & achievements
-- ⏱️ Sleep timer
-- 🎧 Headset automation
-- 🔄 Resume last song & playback position
-- 🔒 Hidden music collection
-- 🗂️ Music folder scanning
-- 🛠️ Audio pipeline diagnostics
-- 🔔 Media notification controls
-- 🌙 Premium dark interface
-- 🚫 No advertisements
-- 🔐 Privacy-focused offline architecture
+| Experience | What it brings |
+| --- | --- |
+| 🎵 Local-first playback | Your music stays at the center of the app |
+| 🎨 Dynamic themes | Visual atmosphere can change with the experience |
+| 💿 Immersive Now Playing | Artwork, motion, particles and playback controls work together |
+| 🎛️ Void Studio | Equalizer, spectrum analysis and audio effects in one workspace |
+| 🧬 Music DNA | A visual profile derived from listening behaviour |
+| 📊 Analytics | Listening time, plays, streaks, heatmaps and achievements |
+| ⚙️ Mission Control | Centralized preferences for playback, interface and library behaviour |
+| ⏱️ Sleep Timer | Presets plus custom timing |
+| 🔒 Hidden Collection | Keep selected tracks out of the main library |
+| 🛠️ Diagnostics | Inspect important parts of the audio pipeline |
 
 ---
 
-# 🎨 Design Philosophy
+# 🏠 Home — Your Music at a Glance
 
-Void Player uses a dark cinematic visual language with dynamic accent colors.
+The Home experience is designed to feel personal from the moment the player opens.
 
-The interface combines:
+It combines a time-aware greeting, music quote, current playback, library content, and a persistent mini-player into one visual environment.
 
-- Soft glass surfaces
-- Transparent layers
-- Ambient gradients
-- Floating particles
-- Dynamic accent colors
-- Circular audio elements
-- Smooth motion
-- Minimal typography
-- Music-reactive visual elements
+The active theme can influence the accent colour throughout the interface, so the player does not feel visually frozen in one state.
 
-The goal is to make the player feel less like a utility and more like a personal music environment.
+![Void Player Home](./-6057847794313139258_121.jpg)
 
 ---
 
-# 🎛️ Audio Experience
+# 🔎 Collection Space — Your Local Library
 
-## Void Studio
+Collection Space turns locally scanned audio into a browsable music environment.
 
-Void Studio acts as the audio control center.
+It brings together:
 
-### Audio Engine
+- Scanned track count
+- Music folders
+- Search
+- Available soundscapes
+- Track artwork
+- Favourite controls
+- Quick playback
+- Persistent mini-player
 
-The player exposes information such as:
+The interface is intentionally designed around discovery without turning a local library into another noisy streaming feed.
 
-- Device output
-- Audio quality
+![Collection Space](./-6057847794313139259_121.jpg)
+
+---
+
+# 💿 Now Playing — The Core Experience
+
+The Now Playing screen is the visual heart of Void Player.
+
+It combines:
+
+- High-resolution album artwork
+- Vinyl-style presentation
+- Animated ambient elements
+- Playback progress
+- Track metadata
+- Favourite control
+- Shuffle
+- Previous / next
+- Repeat
+- Primary play / pause control
+- Lyrics access
+
+The surrounding visual system is designed to make playback feel alive without overwhelming the actual controls.
+
+![Now Playing](./-6057847794313139260_121.jpg)
+
+---
+
+# 🎚️ Void Studio — Audio Control Center
+
+**Void Studio** is the dedicated workspace for users who want to go deeper into their sound.
+
+It presents the current audio pipeline alongside equalization and spectrum information.
+
+### Audio Engine Status
+
+Depending on the device and active track, the interface can surface information such as:
+
+- Output device
+- Quality
 - Sample rate
 - Bitrate
-- File format
-- Stereo channels
+- Format
+- Channels
 
-### Equalizer
+![Void Studio](./-6057847794313139261_121.jpg)
 
-A 10-band equalizer provides control over:
+---
 
-```text
-32 Hz
-64 Hz
-125 Hz
-250 Hz
-500 Hz
-1 kHz
-2 kHz
-4 kHz
-8 kHz
-16 kHz
-```
+## 🎛️ 10-Band Equalizer
+
+Void Player provides a 10-band equalizer across:
+
+text
+32 Hz   64 Hz   125 Hz   250 Hz   500 Hz
+1 kHz   2 kHz   4 kHz    8 kHz     16 kHz
+
+The equalizer is designed as a direct manipulation interface rather than a wall of technical controls.
+
+![10-Band Equalizer](./-6057847794313139262_121.jpg)
 
 ### Presets
 
-Available preset concepts include:
+Preset choices include:
 
-- Normal
-- Rock
-- Pop
-- EDM
-- Bass Boost
-- Movie
+* Normal
+* Rock
+* Pop
+* EDM
+* Bass Boost
+* Movie
+
+![Equalizer Presets](./-6057847794313139263_121.jpg)
 
 ---
 
 # 🔊 Audio Effects
 
-Void Player includes an audio-effects layer containing controls such as:
+Void Player includes a dedicated effects layer with controls for:
 
-- Bass Boost
-- Virtualizer
-- Reverb
-- Surround
-- Loudness
-- Balance
-- Voice Boost
-- Stereo Width
+* Bass Boost
+* Virtualizer
+* Reverb
+* Surround
+* Loudness
+* Balance
+* Voice Boost
+* Stereo Width
 
-The exact capabilities can vary depending on the Android device and audio hardware.
+The available effect behaviour can depend on the Android device, output hardware and underlying audio capabilities.
 
----
-
-# 📊 Listening Intelligence
-
-Void Player goes beyond simply counting how many songs were played.
-
-The analytics system is designed around understanding listening behavior.
-
-## Music DNA
-
-Music DNA creates a listening profile based on playback history.
-
-It can represent dimensions such as:
-
-- Calm
-- Energy
-- Focus
-- Emotional
-- Curiosity
-
-The goal is to turn listening history into something visually meaningful.
+![Audio Effects](./-6057847794313139264_121.jpg)
 
 ---
 
-## 🔥 Listening Statistics
+# 📡 Live Spectra Analytics
 
-The analytics interface includes information such as:
+The spectrum view provides a visual representation of the active audio signal.
 
-- Listening time
-- Songs played
-- Favorites
-- Current listening streak
-- Weekly listening activity
-- Achievements
-- Top songs
-- Top artists
-- Top genres
-- Listening moods
+Rather than using a static decorative equalizer, the interface is designed around live-looking frequency activity so the audio workspace feels connected to playback.
+
+![Live Spectrum Analytics](./-6057847794313139265_121.jpg)
 
 ---
 
-# 🏆 Achievements
+# 🧬 Music DNA — Your Listening Profile
 
-Void Player includes a milestone system designed to make long-term listening history more interesting.
+Music DNA transforms listening history into a visual profile.
 
-Achievements can represent milestones such as:
+The current model presents dimensions such as:
 
-- Exploring the library
-- Playing multiple tracks
-- First listening sessions
-- Listening streaks
-- Music discovery milestones
+* Calm
+* Energy
+* Focus
+* Emotional
+* Curiosity
+
+The purpose is not to pretend that a music player can read a human soul. Humanity has suffered enough personality tests already. 😌
+
+Instead, Music DNA provides a visual summary of patterns found in listening activity.
+
+![Music DNA](./-6057847794313139266_121.jpg)
 
 ---
 
-# 🎨 Personalization
+# 📊 Analytics — Listening History With Context
 
-Void Player includes a dedicated personalization system.
+Void Player's analytics layer is built around more than a single play counter.
+
+It can surface:
+
+* Listening time
+* Songs played
+* Favourite additions
+* Current streak
+* Weekly activity
+* Listening heatmap
+* Achievements
+* Top songs
+* Top artists
+* Top genres
+* Listening moods
+
+![Analytics Overview](./-6057847794313139267_121.jpg)
+
+## 🔥 Listening Heatmap & Achievements
+
+The analytics journey can visualise activity across the week and provide milestones for long-term listening behaviour.
+
+Achievements are designed as lightweight milestones rather than a forced gamification system.
+
+![Listening Heatmap and Achievements](./-6057847794313139268_121.jpg)
+
+---
+
+# 🎨 Personalization — Make It Yours
+
+Personalization controls the identity of the experience.
 
 ### Dynamic Greetings
 
-Greetings can change based on the current time.
-
-Examples:
-
-```text
-Good Morning
-Good Afternoon
-Good Evening
-Good Night
-```
+Greetings can adapt to the time of day.
 
 ### Dynamic Quotes
 
-The dashboard can display changing music-related quotes.
+The dashboard can display changing music-oriented quotes.
 
-### Dynamic Themes
+### Dynamic Theme Animation
 
-The theme engine supports a large collection of colors and dynamic theme transitions.
+Theme changes can use fluid colour transitions instead of abruptly replacing the entire visual system.
 
-The interface can switch between different visual atmospheres without requiring the entire application to restart.
+### Profile Name
 
----
+The dashboard can use a personalized profile name throughout the experience.
 
-# 🌈 Theme System
-
-Void Player supports dynamic visual themes with multiple color families.
-
-The interface can use:
-
-- Solid Airbrush
-- Liquid Gradient
-- Dynamic Random Themes
-- Theme Families
-- Fixed Colors
-
-The system is designed to allow the player to feel different depending on the selected atmosphere.
+![Personalization](./-6057847794313139269_121.jpg)
 
 ---
 
-# ⏱️ Playback Automation
+# 🌈 Dynamic Theme Engine
 
-Void Player includes several playback automation features.
+Void Player includes multiple approaches to visual theming.
 
-### Resume Last Song
+### Solid Airbrush
 
-Automatically restores the previous track.
+A focused colour atmosphere built around a primary accent.
 
-### Remember Playback Position
+### Liquid Gradient
 
-Restores the exact playback position.
+A more fluid visual system for richer background movement and depth.
 
-### Headset Automation
+### Dynamic Random
 
-Optional behaviors include:
+A large colour pool can be used for changing visual atmospheres.
 
-- Auto play when headphones connect
-- Pause when headphones disconnect
+### Theme Families & Fixed Colours
 
-### Gapless Playback
+Users can keep a particular visual family or choose a specific colour instead of relying on randomisation.
 
-Designed for seamless transitions between tracks.
+The theme system is intended to change the mood of the interface without changing the identity of the application.
 
-### Crossfade
+![Dynamic Theme System](./-6057847794313139270_121.jpg)
 
-Crossfade durations can be configured for supported playback behavior.
+---
 
-### Sleep Timer
+# ⚙️ Mission Control
 
-Preset timers include:
+**Mission Control** is the central settings hub for Void Player.
+
+Instead of hiding important controls across disconnected menus, it groups the major systems into clear modules:
+
+* Personalization
+* Playback
+* Audio Studio
+* Interface
+* Music Library
+* Hidden Collection
+* Problem Resolver
+* Analytics
+* Notifications
+* Developer tools
+
+![Mission Control](./-6057847794313139271_121.jpg)
+
+---
+
+# ▶️ Playback Engine & Automation
+
+Playback settings include controls for:
+
+* Resume last song
+* Remember exact playback position
+* Auto-play when a headset connects
+* Pause when a headset disconnects
+* Gapless playback
+* Crossfade duration
+* Sleep timer
+* End-of-song pause behaviour
+
+The objective is simple: the player should remember how you listen instead of making you configure the same thing every time.
+
+![Playback Settings](./-6057847794313139272_121.jpg)
+
+---
+
+# ⏱️ Sleep Timer
+
+Sleep Timer provides quick presets for common listening sessions:
 
 ```text
 15 Minutes
@@ -278,221 +336,159 @@ Preset timers include:
 45 Minutes
 60 Minutes
 90 Minutes
-```
 
-Custom timer support can also be used where available.
+A custom duration can also be entered when needed.
 
----
-
-# 🗂️ Music Library
-
-Void Player scans local music folders and organizes available tracks into a unified collection.
-
-The library experience includes:
-
-- Folder-based organization
-- Track scanning
-- Search
-- Recent tracks
-- Loved tracks
-- Playlists
-- Hidden tracks
-- Album artwork
-- Currently playing state
-
-The player is designed to work with music stored locally on the device.
+![Sleep Timer](./-6057847794313139273_121.jpg)
 
 ---
 
-# 🔒 Privacy
+# 🗂️ Music Library & Hidden Collection
 
-Void Player is designed around local playback.
+Void Player is built around local files.
 
-### No tracking
+The library system is designed to support:
 
-### No telemetry
+* Folder scanning
+* Track discovery
+* Search
+* Recent music
+* Loved tracks
+* Playlists
+* Album artwork
+* Hidden tracks
+* Persistent playback state
 
-### No subscriptions
+The **Hidden Collection** provides a separate place for tracks that should remain protected from the normal browsing experience.
 
-### No advertisements
-
-### No unnecessary cloud dependency
-
-Your local music library remains the center of the experience.
-
----
-
-# 🛠️ Audio Pipeline Diagnostics
-
-Void Player includes an audio pipeline inspection system for advanced debugging and transparency.
-
-The diagnostic interface can expose information related to:
-
-- Unity Gain
-- Audio Attributes
-- Codec
-- Sampling Rate
-- Audio Focus
-- DSP State
-- Dynamic Range Compression
-- Limiter
-- Hardware Offload
-
-This makes it easier to understand what is happening inside the playback pipeline.
+![Music Library and Collection](./-6057847794313139275_121.jpg)
 
 ---
 
-# 📱 Interface Gallery
+# 🛠️ Problem Resolver & Developer Diagnostics
 
-Below is the current Void Player interface gallery.
+For deeper inspection, Void Player exposes an audio pipeline diagnostics area.
 
-> The screenshots intentionally retain their original filenames from the development upload.
+The developer-facing system is intended to make important playback states easier to inspect, including concepts such as:
 
-### Screenshot 01
+* Unity gain
+* Audio attributes
+* Codec
+* Sampling rate
+* Audio focus
+* DSP state
+* Dynamic range processing
+* Limiter state
+* Hardware offload state
 
-![Void Player Screenshot 01](./-6057847794313139258_121.jpg)
+The goal is transparency during development rather than hiding the interesting parts behind a black box.
 
-### Screenshot 02
-
-![Void Player Screenshot 02](./-6057847794313139259_121.jpg)
-
-### Screenshot 03
-
-![Void Player Screenshot 03](./-6057847794313139260_121.jpg)
-
-### Screenshot 04
-
-![Void Player Screenshot 04](./-6057847794313139261_121.jpg)
-
-### Screenshot 05
-
-![Void Player Screenshot 05](./-6057847794313139262_121.jpg)
-
-### Screenshot 06
-
-![Void Player Screenshot 06](./-6057847794313139263_121.jpg)
-
-### Screenshot 07
-
-![Void Player Screenshot 07](./-6057847794313139264_121.jpg)
-
-### Screenshot 08
-
-![Void Player Screenshot 08](./-6057847794313139265_121.jpg)
-
-### Screenshot 09
-
-![Void Player Screenshot 09](./-6057847794313139266_121.jpg)
-
-### Screenshot 10
-
-![Void Player Screenshot 10](./-6057847794313139267_121.jpg)
-
-### Screenshot 11
-
-![Void Player Screenshot 11](./-6057847794313139268_121.jpg)
-
-### Screenshot 12
-
-![Void Player Screenshot 12](./-6057847794313139269_121.jpg)
-
-### Screenshot 13
-
-![Void Player Screenshot 13](./-6057847794313139270_121.jpg)
-
-### Screenshot 14
-
-![Void Player Screenshot 14](./-6057847794313139271_121.jpg)
-
-### Screenshot 15
-
-![Void Player Screenshot 15](./-6057847794313139272_121.jpg)
-
-### Screenshot 16
-
-![Void Player Screenshot 16](./-6057847794313139273_121.jpg)
-
-### Screenshot 17
-
-![Void Player Screenshot 17](./-6057847794313139275_121.jpg)
-
-### Screenshot 18
-
-![Void Player Screenshot 18](./-6057847794313139276_121.jpg)
+![Developer Diagnostics](./-6057847794313139276_121.jpg)
 
 ---
 
-# 🧠 Project Vision
+# 🔔 Notifications & Media Controls
 
-Void Player is not intended to compete with streaming platforms.
+Void Player is designed to behave like a proper Android media application, including persistent playback controls and media-oriented system integration.
 
-It is built for people who already have their own music collection and want a better way to experience it.
+The interface also keeps the active track accessible through a consistent mini-player across major screens.
 
-The philosophy is simple:
+---
 
-> **Own your music.  
-> Control your experience.  
-> Keep it private.**
+# 🧠 Design Language
+
+Void Player follows a dark, cinematic visual system built around:
+
+* Glass-inspired surfaces
+* Soft transparency
+* Ambient gradients
+* Dynamic accent colours
+* Floating particles
+* Circular audio motifs
+* Layered depth
+* Strong typography
+* Compact information hierarchy
+* Motion that supports the experience instead of distracting from it
+
+The visual language is deliberately expensive-looking without relying on excessive decoration.
+
+---
+
+# 🔐 Privacy Philosophy
+
+Void Player is designed as an offline-first local music experience.
+
+The product philosophy is intentionally simple:
+
+> **Your library should belong to you.**
+
+The app is not built around advertising feeds or a streaming ecosystem. Its primary purpose is to play and organise music already available on the device.
+
+---
+
+# 🚧 Project Status
+
+**Current Version:** 16.09.09 — Aurora
+
+**Status:** Active Development
+
+Void Player is an independent project and continues to evolve through UI experiments, playback improvements, audio-engine work, analytics, performance tuning and new ideas.
+
+Some features shown in the interface may still be experimental or device-dependent.
+
+---
+
+# 🗺️ Direction
+
+The long-term direction of Void Player is to build a complete personal listening environment around local music.
+
+The focus remains on four principles:
+
+**Beautiful** — an interface worth opening.
+
+**Powerful** — serious control when you want it.
+
+**Personal** — the experience adapts to the listener.
+
+**Private** — your local music remains yours.
 
 ---
 
 # 👨‍💻 About the Developer
 
-**Shahil Shakya**  
 **Shayu**
+Independent student developer • India 🇮🇳
 
-Creator & Independent Student Developer from India 🇮🇳
+Void Player is an independent project created as a combination of software engineering, UI/UX experimentation, audio technology, motion design and data visualisation.
 
-> *“Designing experiences, not just apps.”*
-
-Void Player is an independent project created to explore the intersection of:
-
-- Software development
-- UI/UX design
-- Audio technology
-- Motion design
-- Data visualization
-- Personalization
-- Creative engineering
+> **Designing experiences, not just apps.**
 
 ---
 
-# 🚀 Project Status
+# 📜 The Philosophy
 
-**Current Version:** `16.09.09 — Aurora`
+Music is rarely just sound.
 
-**Status:** Active Development
+Sometimes it is a memory.
+Sometimes it is a person.
+Sometimes it is a place.
+Sometimes it is the only thing that makes a quiet night feel less empty.
 
-Void Player is continuously evolving as new ideas, experiments, optimizations, and interface improvements are introduced.
+Void Player is built around that idea.
 
----
+Not to replace the music.
 
-# 📜 Philosophy
-
-Void Player was created around a simple belief:
-
-> **Music has always been more than sound.**
-
-It can be memory.
-
-It can be emotion.
-
-It can be silence.
-
-It can be a place you return to.
-
-Void Player is built to make that experience feel a little more personal.
+Just to give it a better place to live.
 
 ---
 
 <p align="center">
-
-### 🎧 Void Player
-
-**Your Music. Beautifully Played.**
-
-Made with curiosity, code, and far too much attention to tiny UI details.
-
-**— Shayu 🇮🇳**
-
+  <strong>🎧 Void Player</strong>
+  <br />
+  <em>Your Music. Beautifully Played.</em>
+  <br /><br />
+  Built with curiosity, code, and an unreasonable amount of attention to tiny UI details.
+  <br />
+  <strong>— Shayu 🇮🇳</strong>
 </p>
+```
