@@ -60,7 +60,7 @@ It combines a time-aware greeting, music quote, current playback, library conten
 
 The active theme can influence the accent colour throughout the interface, so the player does not feel visually frozen in one state.
 
-![Void Player Home](./-6057847794313139258_121.jpg)
+![Void Player Home](./-6057847794313139273_121.jpg)
 
 ---
 
@@ -81,7 +81,7 @@ It brings together:
 
 The interface is intentionally designed around discovery without turning a local library into another noisy streaming feed.
 
-![Collection Space](./-6057847794313139259_121.jpg)
+![Collection Space](./-6057847794313139266_121.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ It combines:
 
 The surrounding visual system is designed to make playback feel alive without overwhelming the actual controls.
 
-![Now Playing](./-6057847794313139260_121.jpg)
+![Now Playing](./-6057847794313139259_121.jpg)
 
 ---
 
@@ -126,7 +126,7 @@ Depending on the device and active track, the interface can surface information 
 - Format
 - Channels
 
-![Void Studio](./-6057847794313139261_121.jpg)
+![Void Studio](./-6057847794313139260_121.jpg)
 
 ---
 
@@ -153,7 +153,7 @@ Preset choices include:
 * Bass Boost
 * Movie
 
-![Equalizer Presets](./-6057847794313139263_121.jpg)
+![Equalizer Presets](./-6057847794313139261_121.jpg)
 
 ---
 
