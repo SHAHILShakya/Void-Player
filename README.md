@@ -1,5 +1,37 @@
 # ◼ VOID PLAYER
 
+<p align="center">
+
+<a href="https://github.com/SHAHILShakya/Void-Player/releases/latest">
+  <img src="https://img.shields.io/github/v/release/SHAHILShakya/Void-Player?style=for-the-badge&label=RELEASE&color=7c3aed" alt="Latest Release">
+</a>
+
+<a href="https://github.com/SHAHILShakya/Void-Player/releases/latest">
+  <img src="https://img.shields.io/github/downloads/SHAHILShakya/Void-Player/total?style=for-the-badge&label=DOWNLOADS&color=06b6d4" alt="Downloads">
+</a>
+
+<img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=3ddc84" alt="Android">
+
+<img src="https://img.shields.io/badge/OFFLINE-000000?style=for-the-badge" alt="Offline">
+
+<img src="https://img.shields.io/badge/VERSION-v1.0.0-000000?style=for-the-badge" alt="Version 1.0.0">
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SHAHILShakya/Void-Player/releases/latest">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20GET%20VOID%20PLAYER-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="Get Void Player">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/SHAHILShakya/Void-Player">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Source">
+</a>
+
+</p>
+
 ### Your Music. Beautifully Played.
 
 A personal offline music player designed around one simple idea:
@@ -34,7 +66,7 @@ Void Player opens with a minimal cinematic splash screen featuring the signature
 
 > **Your Music. Beautifully Played.**
 
-![Void Player Splash Screen](./-6057847794313139272_121%281%29.jpg)
+![Void Player Splash Screen](./-6057847794313139272_121.jpg)
 
 ---
 
@@ -52,7 +84,7 @@ And when you're ready:
 
 **LET'S BEGIN.**
 
-![Void Player Welcome](./-6057847794313139268_121%281%29.jpg)
+![Void Player Welcome](./-6057847794313139268_121.jpg)
 
 ---
 
@@ -78,7 +110,7 @@ A visual environment that adapts to the music and album artwork.
 
 Just your music.
 
-![Why Void Player](./-6057847794313139270_121%281%29.jpg)
+![Why Void Player](./-6057847794313139270_121.jpg)
 
 ---
 
@@ -103,7 +135,7 @@ It includes:
 
 The interface is designed to make the library feel alive without becoming distracting.
 
-![Void Player Home](./-6057847794313139273_121%281%29.jpg)
+![Void Player Home](./-6057847794313139273_121.jpg)
 
 ---
 
@@ -132,7 +164,7 @@ The artwork becomes more than an image.
 
 It becomes part of the player.
 
-![Void Player Now Playing](./-6057847794313139259_121%281%29.jpg)
+![Void Player Now Playing](./-6057847794313139259_121.jpg)
 
 ---
 
@@ -156,7 +188,7 @@ The Collection screen provides:
 
 The library stays focused, visual, and easy to explore.
 
-![Void Player Collection Space](./collection.png.jpg)
+![Void Player Collection Space](./-6057847794313139266_121.jpg)
 
 ---
 
@@ -186,7 +218,7 @@ A 10-band precision equalizer with frequency bands from:
 
 `32Hz · 64Hz · 125Hz · 250Hz · 500Hz · 1KHz · 2KHz · 4KHz · 8KHz · 16KHz
 
-![Void Studio](./-6057847794313139262_121%281%29.jpg)
+![Void Studio](./-6057847794313139262_121.jpg)
 
 ---
 
@@ -213,7 +245,7 @@ Available controls shown in the interface include:
 
 The screen also provides an Audio Information area with access to the inspector.
 
-![Void Studio Audio Effects](./-6057847794313139260_121%281%29.jpg)
+![Void Studio Audio Effects](./-6057847794313139260_121.jpg)
 
 ---
 
@@ -255,7 +287,7 @@ Quick presets are available for:
 
 There is also an option to stop after the current song.
 
-![Playback Settings](./-6057847794313139276_121%281%29.jpg)
+![Playback Settings](./-6057847794313139276_121.jpg)
 
 ---
 
@@ -275,7 +307,7 @@ Available presets include:
 
 A custom duration can also be entered manually.
 
-![Sleep Timer](./-6057847794313139258_121%281%29.jpg)
+![Sleep Timer](./-6057847794313139258_121.jpg)
 
 ---
 
@@ -296,7 +328,7 @@ Available presets shown in the interface include:
 
 The currently active preset is clearly indicated.
 
-![Equalizer Presets](./-6057847794313139261_121%281%29.jpg)
+![Equalizer Presets](./-6057847794313139261_121.jpg)
 
 ---
 
@@ -336,7 +368,7 @@ The interface currently visualizes:
 
 Each dimension is represented with its own percentage and visual indicator.
 
-![Music DNA](./-6057847794313139264_121%281%29.jpg)
+![Music DNA](./-6057847794313139264_121.jpg)
 
 ---
 
@@ -353,7 +385,7 @@ The interface provides categories for:
 
 This creates a visual overview of the sounds you return to most often.
 
-![Top Everything](./-6057847794313139264_121%281%29.jpg)
+![Top Everything](./-6057847794313139264_121.jpg)
 
 ---
 
@@ -369,7 +401,7 @@ Below the heatmap is an achievement system showing milestones and progress.
 
 A recent listening session is also presented through the Mood Mirror section.
 
-![Listening Heatmap & Achievements](./-6057847794313139263_121%281%29.jpg)
+![Listening Heatmap & Achievements](./-6057847794313139263_121.jpg)
 
 ---
 
@@ -401,7 +433,7 @@ The interface supports multiple visual systems including:
 
 The screenshot also shows a collection of **74 colors** available through the theme system.
 
-![Personalization](./-6057847794313139275_121%281%29.jpg)
+![Personalization](./-6057847794313139275_121.jpg)
 
 ---
 
@@ -425,7 +457,7 @@ Mission Control currently presents sections for:
 
 Each section provides a quick status indicator before entering its detailed controls.
 
-![Mission Control](./-6057847794313139267_121%281%29.jpg)
+![Mission Control](./-6057847794313139267_121.jpg)
 
 ---
 
@@ -463,7 +495,7 @@ A live inspector focused on audio-engine information such as:
 - DRC
 - Hardware Offload
 
-![Features & Updates](./-6057847794313139271_121%281%29.jpg)
+![Features & Updates](./-6057847794313139271_121.jpg)
 
 ---
 
