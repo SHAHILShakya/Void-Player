@@ -330,7 +330,7 @@ The objective is simple: the player should remember how you listen instead of ma
 
 Sleep Timer provides quick presets for common listening sessions:
 
-```text
+text
 15 Minutes
 30 Minutes
 45 Minutes
@@ -491,4 +491,3 @@ Just to give it a better place to live.
   <br />
   <strong>— Shayu 🇮🇳</strong>
 </p>
-```
