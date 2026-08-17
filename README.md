@@ -2,19 +2,17 @@
 
 <p align="center">
 
-<a href="https://github.com/SHAHILShakya/Void-Player/releases/latest">
-  <img src="https://img.shields.io/github/v/release/SHAHILShakya/Void-Player?style=for-the-badge&label=RELEASE&color=7c3aed" alt="Latest Release">
-</a>
+### YOUR MUSIC. BEAUTIFULLY PLAYED.
 
-<a href="https://github.com/SHAHILShakya/Void-Player/releases/latest">
-  <img src="https://img.shields.io/github/downloads/SHAHILShakya/Void-Player/total?style=for-the-badge&label=DOWNLOADS&color=06b6d4" alt="Downloads">
-</a>
+<br>
+
+<img src="https://img.shields.io/badge/RELEASE-v1.0.0-7c3aed?style=for-the-badge" alt="Release v1.0.0">
 
 <img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=3ddc84" alt="Android">
 
 <img src="https://img.shields.io/badge/OFFLINE-000000?style=for-the-badge" alt="Offline">
 
-<img src="https://img.shields.io/badge/VERSION-v1.0.0-000000?style=for-the-badge" alt="Version 1.0.0">
+<img src="https://img.shields.io/badge/NO%20ADS-000000?style=for-the-badge" alt="No Ads">
 
 </p>
 
@@ -32,207 +30,339 @@
 
 </p>
 
-### Your Music. Beautifully Played.
+---
 
-A personal offline music player designed around one simple idea:
+`text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│                      V O I D                             │
+│                      P L A Y E R                         │
+│                                                          │
+│                   A U R O R A                            │
+│                                                          │
+│             YOUR MUSIC. BEAUTIFULLY PLAYED.              │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  BUILD       16.09.09 — AURORA                           │
+│  RELEASE     v1.0.0                                      │
+│  PLATFORM    ANDROID                                     │
+│  MODE        OFFLINE                                     │
+│                                                          │
+│  AUDIO       ● ONLINE                                    │
+│  VISUALS     ● ONLINE                                    │
+│  LIBRARY     ● READY                                     │
+│  ANALYTICS   ● READY                                     │
+│  PERSONAL    ● ACTIVE                                    │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 
-> **Music should feel like an experience, not just a file playing in the background.**
 
-Void Player brings together a cinematic interface, immersive visual atmosphere, detailed playback controls, audio tools, music analytics, and a deeply personalized listening experience.
+# 00 · BOOT SEQUENCE
 
-Built independently with a focus on detail, atmosphere, and the little things that make a music player feel personal.
+text
+$ boot void-player
+
+Initializing Aurora..................... OK
+Loading visual atmosphere................ OK
+Preparing audio environment.............. OK
+Checking music interface................ OK
+Loading personal systems................. OK
+
+VOID PLAYER
+
+System ready.
+
+
+There is no feed waiting for you.
+
+No endless stream of recommendations.
+
+No noise asking for your attention.
+
+Just a quiet space waiting for your music.
 
 ---
 
-## ✦ A QUIET PLACE FOR YOUR MUSIC
+# 01 · ENTER THE VOID
 
-Void Player is designed for people who don't just listen to music.
+**11:47 PM.**
 
-They live inside it.
+The room is quiet.
 
-From the moment the application opens to the moment a song ends, the interface is built to keep the experience focused on one thing:
+You put your headphones on.
 
-**your music.**
+One song begins.
 
----
+And for a moment, everything else becomes background noise.
 
-# ◌ THE EXPERIENCE
+That is where Void Player begins.
 
-## 01 · Splash Screen
+Not with a playlist.
 
-The experience begins quietly.
+Not with an algorithm.
 
-Void Player opens with a minimal cinematic splash screen featuring the signature VOID PLAYER identity, atmospheric particles, flowing shapes, and a subtle audio-inspired animation.
+With a song.
 
-> **Your Music. Beautifully Played.**
-
-![Void Player Splash Screen](./-6057847794313139272_121.jpg)
+![Void Player — Splash Screen](./-6057847794313139272_121.jpg)
 
 ---
 
-## 02 · Welcome
+## A LITTLE FURTHER
 
-A simple introduction to the world of Void Player.
+The first thing you see is simple.
 
-The welcome experience introduces three parts of the application:
+**Explore.  
+Discover.  
+Listen.**
 
-- Explore Features
-- Meet the Developer
-- Why Void Player?
+Void Player introduces its world through three ideas:
 
-And when you're ready:
+- **Explore Features**
+- **Meet the Developer**
+- **Why Void Player?**
 
-**LET'S BEGIN.**
+And then there is only one thing left to do.
 
-![Void Player Welcome](./-6057847794313139268_121.jpg)
+### LET'S BEGIN.
+
+![Void Player — Welcome](./-6057847794313139268_121.jpg)
 
 ---
 
-## 03 · Why Void Player?
+# 02 · WHY VOID?
 
-Void Player is built around a few simple principles.
+We didn't build Void Player to become another place that tells you what to listen to.
 
-### 100% Offline & Private
+We built it around something quieter.
 
-No tracking.  
-No telemetry.  
-No subscriptions.
+Your music is already yours.
 
-### Studio DSP Audio Quality
+Your library is already yours.
 
-Audio controls designed around detailed playback, including EQ, spatialization, bass enhancement and limiting.
+Your memories are already attached to those songs.
 
-### Live Flowing Gradient Atmosphere
+So the player should feel like it belongs to you too.
 
-A visual environment that adapts to the music and album artwork.
+### 100% OFFLINE & PRIVATE
 
-### No Ads. No Interruptions.
+Your local music stays at the center of the experience.
 
-Just your music.
+### STUDIO DSP AUDIO QUALITY
+
+A dedicated audio environment built around deeper playback control.
+
+### LIVE FLOWING GRADIENT ATMOSPHERE
+
+Music doesn't have to look static while it plays.
+
+### NO ADS
+
+Because interrupting a song to show an advertisement is a remarkably efficient way to ruin the song.
 
 ![Why Void Player](./-6057847794313139270_121.jpg)
 
 ---
 
-# ◉ HOME
+# 03 · THE FIRST MOMENT
 
-## 04 · Home Experience
+The system has finished loading.
 
-The home screen brings everything together in one place.
+The music is ready.
 
-It includes:
+And now you arrive at home.
 
-- Personalized time-based greeting
-- Currently playing track
-- Album artwork
-- Audio quality information
-- Mood label
-- Last-played information
-- Music categories
-- Music cards
-- Mini player
-- Main navigation
+> **Your library doesn't need to compete for your attention.**
+>
+> It just needs to be there when you want it.
 
-The interface is designed to make the library feel alive without becoming distracting.
+**VOID PLAYER · HOME**
 
-![Void Player Home](./-6057847794313139273_121.jpg)
+![Void Player — Home](./-6057847794313139273_121.jpg)
 
 ---
 
-# ◉ NOW PLAYING
+# 04 · THE IDEA
 
-## 05 · Now Playing
+A music player can be functional.
 
-The Now Playing screen puts the song at the center of the experience.
+Or it can feel like a place.
 
-It presents:
+Void Player tries to live somewhere in between.
 
-- High-resolution artwork
-- Circular visual atmosphere
+A place where:
+
+**music becomes the center,  
+the interface stays out of the way,  
+and the little details make the experience yours.**
+
+The journey has just started.
+
+---
+
+# 05 · THE SONG
+
+You choose one.
+
+The room gets quieter.
+
+The artwork comes alive.
+
+And suddenly, you are no longer looking at a list of files.
+
+You are listening.
+
+# 06 · NOW PLAYING
+
+The song has started.
+
+The artwork takes over the screen.
+
+The interface becomes quieter, leaving the music at the center.
+
+### NOW PLAYING
+
+- Album artwork
 - Track information
-- Audio format and quality
+- Audio quality
 - Playback progress
-- Interactive playback controls
-- Favorite control
-- Shuffle
+- Play / Pause
 - Previous / Next
+- Shuffle
 - Repeat
-- Additional playback controls
+- Favourite
 - Lyrics access
 
-The artwork becomes more than an image.
+At the top, Void Player keeps the technical side visible too:
 
-It becomes part of the player.
+**MP3 · 320 kbps · 48 kHz**
 
-![Void Player Now Playing](./-6057847794313139259_121.jpg)
+Because sometimes you just want to listen.
+
+And sometimes you want to know what you're listening to.
+
+![Void Player — Now Playing](./-6057847794313139259_121.jpg)
 
 ---
 
-# ◉ COLLECTION
+# 07 · THE COLLECTION
 
-## 06 · Collection Space
+The song ends.
 
-Your music library gets its own dedicated space.
+There are thousands of others waiting.
 
-The Collection screen provides:
+Your music lives here.
 
-- Scanned track count
-- Music folders
+### COLLECTION SPACE
+
+A dedicated space for exploring the music already on your device.
+
+You can move through:
+
+- Music
 - Audio folders
 - Search
-- Available soundscapes
-- Track browsing
-- Favorites
+- Soundscapes
+- Tracks
+- Favourites
 - Track actions
-- Mini player
 
-The library stays focused, visual, and easy to explore.
+The library is not trying to become a social feed.
 
-![Void Player Collection Space](./-6057847794313139266_121.jpg)
+It is simply your collection.
 
----
-
-# ◉ VOID STUDIO
-
-## 07 · Void Studio
-
-### Resonate your frequencies.
-
-Void Studio is the audio-focused environment of Void Player.
-
-The interface exposes the current audio engine state, including:
-
-- Playback device
-- Audio quality
-- Sample rate
-- Bitrate
-- Format
-- Channels
-- Engine status
-
-It also includes a detailed:
-
-### Liquid Frequency Chamber
-
-A 10-band precision equalizer with frequency bands from:
-
-`32Hz · 64Hz · 125Hz · 250Hz · 500Hz · 1KHz · 2KHz · 4KHz · 8KHz · 16KHz
-
-![Void Studio](./-6057847794313139262_121.jpg)
+![Void Player — Collection Space](./-6057847794313139266_121.jpg)
 
 ---
 
-## 08 · Live Spectra & Audio Effects
+# 08 · KEEP LISTENING
 
-Void Studio continues into a live spectrum and audio effects area.
+A good music player shouldn't make you think about the player.
 
-### Live Spectra Analytics
+It should let you disappear into the music.
 
-A visual representation of the currently playing audio.
+That is why the experience keeps the currently playing track close, even while you move through the rest of the application.
 
-### Audio Effects
+The music stays with you.
 
-Available controls shown in the interface include:
+---
+
+# 09 · WHEN YOU WANT MORE
+
+But sometimes listening isn't enough.
+
+Sometimes you want to know what you're hearing.
+
+Sometimes you want to change it.
+
+Sometimes you want to make it sound exactly the way you want.
+
+That's where we go deeper.
+
+---
+
+# 10 · VOID STUDIO
+
+text
+╭────────────────────────────────────────────╮
+│              V O I D   S T U D I O         │
+│                                            │
+│        AUDIO ENGINE STATUS                 │
+│                                            │
+│        OUTPUT      DEVICE                  │
+│        QUALITY     HIGH                     │
+│        SAMPLE      48 kHz                  │
+│        BITRATE     320 kbps                │
+│        FORMAT      MP3                     │
+│        CHANNELS    STEREO                  │
+│                                            │
+╰────────────────────────────────────────────╯
+
+
+Void Studio is where the player stops being just a player.
+
+It becomes an audio workspace.
+
+The interface exposes information about the current audio environment while giving you direct control over the sound.
+
+### LIQUID FREQUENCY CHAMBER
+
+A 10-band equalizer spanning:
+
+text
+32 Hz
+64 Hz
+125 Hz
+250 Hz
+500 Hz
+1 kHz
+2 kHz
+4 kHz
+8 kHz
+16 kHz
+
+
+![Void Studio — Audio Engine & Equalizer](./-6057847794313139262_121.jpg)
+
+---
+
+# 11 · HEAR THE DIFFERENCE
+
+The frequency chamber is only one part of Void Studio.
+
+Below it, the audio experience continues with a live spectrum and a collection of audio controls.
+
+### LIVE SPECTRA ANALYTICS
+
+The active audio signal becomes part of the interface.
+
+Not just a static decoration.
+
+A visual layer that moves with the sound.
+
+### AUDIO EFFECTS
+
+The interface exposes:
 
 - Bass Boost
 - Virtualizer
@@ -243,102 +373,150 @@ Available controls shown in the interface include:
 - Voice Boost
 - Stereo Width
 
-The screen also provides an Audio Information area with access to the inspector.
+And when you want to inspect the audio environment further, **Audio Information** is right there.
 
-![Void Studio Audio Effects](./-6057847794313139260_121.jpg)
-
----
-
-# ◉ PLAYBACK
-
-## 09 · Playback Engine
-
-Void Player remembers how you listen.
-
-Playback preferences include:
-
-### Playback Mode
-
-- Resume Last Song
-- Remember Playback Position
-
-### Automation
-
-- Auto Play on Headset Connected
-- Pause on Headset Disconnected
-
-### Audio Transitions
-
-- Gapless Playback
-- Crossfade Duration
-- 2 seconds
-- 5 seconds
-- 10 seconds
-
-### Sleep Timer
-
-Quick presets are available for:
-
-- Off
-- 15 minutes
-- 30 minutes
-- 45 minutes
-- 60 minutes
-
-There is also an option to stop after the current song.
-
-![Playback Settings](./-6057847794313139276_121.jpg)
+![Void Studio — Live Spectra & Audio Effects](./-6057847794313139260_121.jpg)
 
 ---
 
-# ◉ SLEEP TIMER
+# 12 · FIND YOUR SOUND
 
-## 10 · Sleep Timer
+Not every song needs the same treatment.
 
-A dedicated sleep timer interface provides quick presets for longer listening sessions.
+Sometimes you want something natural.
 
-Available presets include:
+Sometimes you want more bass.
 
-- 15 Minutes
-- 30 Minutes
-- 45 Minutes
-- 1 Hour
-- 1.5 Hours
+Sometimes you want the room to feel bigger.
 
-A custom duration can also be entered manually.
+Void Player provides quick equalizer presets for different listening moods.
 
-![Sleep Timer](./-6057847794313139258_121.jpg)
+### PRESETS
 
----
+text
+NORMAL
+ROCK
+POP
+EDM
+BASS BOOST
+MOVIE
 
-# ◉ EQUALIZER
 
-## 11 · Equalizer Presets
+Choose one.
 
-Void Player provides quick equalizer presets for different listening styles.
+Press play.
 
-Available presets shown in the interface include:
+Keep listening.
 
-- Normal
-- Rock
-- Pop
-- EDM
-- Bass Boost
-- Movie
-
-The currently active preset is clearly indicated.
-
-![Equalizer Presets](./-6057847794313139261_121.jpg)
+![Void Player — Equalizer Presets](./-6057847794313139261_121.jpg)
 
 ---
 
-# ◉ ANALYTICS
+# 13 · MAKE IT YOURS
 
-## 12 · Listening Analytics
+The sound is personal.
 
-Void Player turns listening history into something you can actually explore.
+So is everything around it.
 
-The analytics dashboard presents a snapshot of your listening activity, including:
+The interface doesn't have to look the same every time you open it.
+
+It can become yours.
+
+---
+
+## PERSONALIZATION
+
+Void Player gives the experience its own identity through:
+
+### DYNAMIC GREETINGS
+
+The greeting changes with the time of day.
+
+### DYNAMIC QUOTES
+
+A little thought can appear alongside your music.
+
+### DYNAMIC THEME ANIMATION
+
+The visual atmosphere can move and transition instead of simply switching from one colour to another.
+
+### THEME SYSTEM
+
+Choose from different visual approaches:
+
+- Solid Airbrush
+- Liquid Gradient
+- Dynamic Random
+- Theme Family
+
+And when you want something specific, the colour system gives you **74 colours** to explore.
+
+![Void Player — Personalization](./-6057847794313139269_121.jpg)
+
+---
+
+# 14 · THERE IS NO SINGLE VOID
+
+There is no single correct way to experience Void Player.
+
+Your music is different.
+
+Your taste is different.
+
+Your mood is different.
+
+So the interface should have room to change with you.
+
+**One player.**
+
+**Many atmospheres.**
+
+And somewhere inside all of them, your music remains the same.
+
+---
+
+# 15 · THE JOURNEY CONTINUES
+
+The song is still playing.
+
+The colours have changed.
+
+The sound has changed.
+
+And now something else begins to appear.
+
+Patterns.
+
+The way you listen.
+
+The songs you return to.
+
+The moods you keep coming back to.
+
+The music is starting to tell a story.
+
+
+# 16 · THE MUSIC STARTS TALKING
+
+Not every pattern is obvious.
+
+Sometimes it's hidden in the songs you play without thinking.
+
+The ones you return to.
+
+The moods that keep appearing.
+
+The hours when you listen the longest.
+
+Void Player turns those moments into something you can see.
+
+---
+
+# 17 · LISTENING ANALYTICS
+
+The Analytics dashboard is a window into your listening history.
+
+At a glance, it brings together:
 
 - Listening Time
 - Songs Played
@@ -346,218 +524,739 @@ The analytics dashboard presents a snapshot of your listening activity, includin
 - Current Streak
 - Music DNA
 
-The dashboard also shows the current date and a personalized greeting.
+The experience also keeps the current date and your personal greeting close to the data.
 
-![Analytics Dashboard](./-6057847794313139265_121.jpg)
+Because numbers are more interesting when they actually mean something to you.
+
+![Void Player — Analytics Dashboard](./-6057847794313139265_121.jpg)
 
 ---
 
-## 13 · Music DNA
+# 18 · MUSIC DNA
 
 ### Your listening personality, visualized.
 
-Music DNA is derived from verified plays and presents a listening profile across different dimensions.
+Music DNA looks at the patterns inside your listening activity and turns them into a visual profile.
 
-The interface currently visualizes:
+The current experience presents five dimensions:
 
-- Calm
-- Energy
-- Focus
-- Emotional
-- Curiosity
+text
+CALM
+ENERGY
+FOCUS
+EMOTIONAL
+CURIOSITY
 
-Each dimension is represented with its own percentage and visual indicator.
 
-![Music DNA](./-6057847794313139264_121.jpg)
+Each one gets its own percentage and visual representation.
 
----
+It isn't trying to define you.
 
-## 14 · Top Everything
+It isn't a personality test.
 
-Explore the music that defines your listening history.
+It is simply a different way of looking at the music you keep coming back to.
 
-The interface provides categories for:
+> **Not who you are.  
+> Just how you listen.**
 
-- Songs
-- Artists
-- Genres
-- Moods
-
-This creates a visual overview of the sounds you return to most often.
-
-![Top Everything](./-6057847794313139264_121.jpg)
+![Void Player — Music DNA](./-6057847794313139264_121.jpg)
 
 ---
 
-## 15 · Listening Heatmap & Achievements
+# 19 · TOP EVERYTHING
 
-The analytics experience continues with a weekly listening heatmap.
+Every listener has patterns.
 
-The interface displays listening activity across:
+Certain songs.
 
-`MON · TUE · WED · THU · FRI · SAT · SUN
+Certain artists.
 
-Below the heatmap is an achievement system showing milestones and progress.
+Certain genres.
 
-A recent listening session is also presented through the Mood Mirror section.
+Certain moods.
 
-![Listening Heatmap & Achievements](./-6057847794313139263_121.jpg)
+The **Top Everything** experience gives those patterns somewhere to exist.
 
----
+Explore your listening history through:
 
-# ◉ PERSONALIZATION
+### SONGS
 
-## 16 · Make It Yours
+The tracks that keep finding their way back into your sessions.
 
-Void Player includes a dedicated personalization system.
+### ARTISTS
 
-### User Profile
+The voices and creators that shape your library.
 
-A profile name can be configured directly inside the application.
+### GENRES
 
-### Dynamic Systems
+The sounds that occupy your listening world.
 
-- Dynamic Greetings
-- Dynamic Quotes
-- Dynamic Theme Animation
+### MOODS
 
-### Visual Themes
+The emotional side of your music collection.
 
-The interface supports multiple visual systems including:
-
-- Solid Airbrush
-- Liquid Gradient
-- Dynamic Random
-- Theme Family
-- Fixed themes
-
-The screenshot also shows a collection of **74 colors** available through the theme system.
-
-![Personalization](./-6057847794313139275_121.jpg)
+![Void Player — Top Everything](./-6057847794313139264_121.jpg)
 
 ---
 
-# ◉ MISSION CONTROL
+# 20 · THE WEEK IN MUSIC
 
-## 17 · Mission Control
+A single listening session tells you very little.
 
-All major preferences are organized inside one central settings environment.
+A week tells a different story.
 
-Mission Control currently presents sections for:
+The listening heatmap visualizes activity across:
 
-- Personalization
-- Playback
-- Audio Studio
-- Interface
-- Music Library
-- Hidden Collection
-- Problem Resolver
-- Analytics
-- Notifications
+text
+MON   TUE   WED   THU   FRI   SAT   SUN
 
-Each section provides a quick status indicator before entering its detailed controls.
 
-![Mission Control](./-6057847794313139267_121.jpg)
+You can see when the music was there.
+
+When the headphones stayed on a little longer.
+
+When your library became part of the day.
+
+![Void Player — Listening Heatmap](./-6057847794313139263_121.jpg)
 
 ---
 
-# ◉ FEATURES & UPDATES
+# 21 · MILESTONES
 
-## 18 · Explore Features & Updates
+Some things are worth remembering.
 
-Void Player includes a dedicated area for discovering features and updates.
+The Analytics experience includes an achievement system that turns listening milestones into small moments of progress.
 
-The interface separates:
+Not because listening needs to become a competition.
 
-**Core Features**  
-and  
-**What's New**
+Just because sometimes it's nice to look back and realise:
 
-The current update showcase highlights:
+**you've been here for a while.**
 
-### Enlarged High-Def Vinyl Artwork
+The same screen also brings the **Mood Mirror** and recent listening activity into the experience.
 
-Enhanced artwork proportions inside the rotating vinyl experience.
-
-### Signature 'S' Developer Monogram
-
-A unified developer identity system used throughout the experience.
-
-### Audio Pipeline Diagnostics
-
-A live inspector focused on audio-engine information such as:
-
-- Unity Gain
-- Audio Attributes
-- Codecs
-- Sampling Rates
-- DSP States
-- DRC
-- Hardware Offload
-
-![Features & Updates](./-6057847794313139271_121.jpg)
+![Void Player — Achievements](./-6057847794313139263_121.jpg)
 
 ---
 
-# ◉ THE DEVELOPER
+# 22 · REMEMBER ME
 
-## Built Independently
+The more you listen, the more your music history becomes yours.
 
-Void Player is an independent project created by:
+A player shouldn't forget everything the moment you close it.
 
-### Shahil Shakya
-**Shayu**
+It should remember where you were.
 
-Creator & Independent Developer · India 🇮🇳
+What you were listening to.
 
-> *“Designing experiences, not just apps.”*
+How far you got.
 
-Built with the belief that music has always been more than sound.
+And when you come back...
 
-It is memory.
-
-It is atmosphere.
-
-It is a place you return to.
-
-![About the Developer](./-6057847794313139269_121.jpg)
+**the music should still be there.**
 
 ---
 
-# ◌ A SMALL PROJECT WITH A BIG FEELING
+# 23 · CONTROL THE MOMENT
 
-Void Player was not designed to compete with every music application.
+Sometimes you don't want to manually manage every second of playback.
 
-It was designed to answer a much simpler question:
+You just want the player to understand what should happen next.
 
-> **What if a music player actually felt like yours?**
-
-Every screen, animation, visual layer, control, and statistic exists around that idea.
-
-No unnecessary noise.
-
-No crowded interface.
-
-Just a quiet space built around music.
+That's where playback control comes in.
 
 ---
 
-# ◇ VOID PLAYER
+# 24 · PLAYBACK
+
+Void Player provides a dedicated playback control space.
+
+### RESUME
+
+Resume the last song.
+
+### POSITION
+
+Remember the playback position.
+
+### HEADSET AUTOMATION
+
+Choose what happens when a headset connects or disconnects.
+
+### GAPLESS PLAYBACK
+
+Move between supported tracks without unnecessary interruption.
+
+### CROSSFADE
+
+Choose a transition duration:
+
+text
+2 seconds
+5 seconds
+10 seconds
+
+
+### SLEEP TIMER
+
+Choose when your listening session should end.
+
+### END OF CURRENT SONG
+
+Stop after the song you're currently listening to.
+
+The idea is simple:
+
+> **You shouldn't have to manage the music while you're listening to it.**
+
+![Void Player — Playback](./-6057847794313139276_121.jpg)
+
+---
+
+# 25 · WHEN THE NIGHT GETS QUIET
+
+The room is darker now.
+
+The headphones are still on.
+
+You don't need another song recommendation.
+
+You just need the music to stop when you fall asleep.
+
+---
+
+# 26 · SLEEP TIMER
+
+Choose a preset:
+
+text
+15 MIN
+30 MIN
+45 MIN
+1 HOUR
+1.5 HOURS
+
+
+Or enter a custom duration.
+
+No complicated setup.
+
+Just choose a time and let the music take care of the rest.
+
+![Void Player — Sleep Timer](./-6057847794313139258_121.jpg)
+
+---
+
+# 27 · THE CONTROL ROOM
+
+There are moments when you don't want simplicity.
+
+You want control.
+
+All of it.
+
+That's what **Mission Control** is for.
+
+---
+
+# 28 · MISSION CONTROL
+
+A central space for the systems that shape Void Player.
+
+### PERSONALIZATION
+
+Control the identity and visual personality of the experience.
+
+### PLAYBACK
+
+Manage playback behaviour and automation.
+
+### AUDIO STUDIO
+
+Enter the deeper audio environment.
+
+### INTERFACE
+
+Control the visual experience.
+
+### MUSIC LIBRARY
+
+Manage the way your local music is handled.
+
+### HIDDEN COLLECTION
+
+Keep selected music away from the normal collection view.
+
+### PROBLEM RESOLVER
+
+A dedicated place for dealing with library issues.
+
+### ANALYTICS
+
+Access your listening data.
+
+### NOTIFICATIONS
+
+Control the notification experience.
+
+Everything in one place.
+
+No treasure hunt required.
+
+![Void Player — Mission Control](./-6057847794313139267_121.jpg)
+
+---
+
+# 29 · THE SYSTEM UNDERNEATH
+
+At this point, Void Player stops looking like a simple music player.
+
+There is a visual layer.
+
+An audio layer.
+
+A listening layer.
+
+A personalization layer.
+
+And a control layer.
+
+But there is still one more place to look.
+
+Behind the experience.
+
+Inside the system itself.
+
+
+# 30 · BEHIND THE EXPERIENCE
+
+A beautiful interface is only one side of the story.
+
+There is another layer underneath it.
+
+The part that cares about what is actually happening while the music plays.
+
+The part that watches the audio pipeline.
+
+The part that helps you understand the system instead of hiding it.
+
+---
+
+# 31 · AUDIO PIPELINE DIAGNOSTICS
+
+Void Player includes an **Audio Pipeline Diagnostics** experience for looking deeper into the playback system.
+
+The interface exposes information across several parts of the audio path, including:
+
+text
+UNITY GAIN
+AUDIO ATTRIBUTES
+CODECS
+SAMPLING RATES
+DSP STATES
+DRC
+HARDWARE OFFLOAD
+
+
+It isn't there to make the player look more technical.
+
+It is there because sometimes the interesting part of music is what happens underneath the buttons.
+
+![Void Player — Audio Pipeline Diagnostics](./-6057847794313139271_121.jpg)
+
+---
+
+# 32 · EXPLORE WHAT'S INSIDE
+
+Void Player also has a dedicated space for discovering its features and updates.
+
+The interface separates the experience into:
+
+### CORE FEATURES
+
+The systems that make Void Player what it is.
+
+### WHAT'S NEW
+
+The details that have recently changed or evolved.
+
+One of the current highlights is:
+
+### ENLARGED HIGH-DEF VINYL ARTWORK
+
+A larger, more immersive presentation for the rotating vinyl artwork.
+
+Another is:
+
+### SIGNATURE 'S' DEVELOPER MONOGRAM
+
+A small identity detail carried through the experience.
+
+And then:
+
+### AUDIO PIPELINE DIAGNOSTICS
+
+A deeper look into what happens behind playback.
+
+![Void Player — Explore Features & Updates](./-6057847794313139271_121.jpg)
+
+---
+
+# 33 · DETAILS MATTER
+
+Some features are obvious.
+
+You see them immediately.
+
+Others are tiny.
+
+A transition.
+
+A number.
+
+A small icon.
+
+A piece of information that appears exactly when it should.
+
+None of these things change the fact that a song is playing.
+
+But together, they change how the player feels.
+
+That is the part of Void Player I care about most.
+
+---
+
+# 34 · THE BUILDER
+
+Every project has a screen where you eventually stop looking at the product...
+
+and meet the person who made it.
+
+---
+
+## SHAHIL SHAKYA
+
+### SHAYU
+
+**Creator & Independent Developer**
+
+**India 🇮🇳**
+
+Void Player is an independent project built through experimentation, design, code, curiosity, and a slightly unreasonable amount of attention to small details.
+
+The goal was never to build just another music player.
+
+It was to build something that felt like **mine**.
+
+And hopefully, someday,
+
+**someone else's too.**
+
+![Shayu — Creator & Independent Developer](./-6057847794313139269_121.jpg)
+
+---
+
+# 35 · WHY I BUILT IT
+
+It started with a simple thought.
+
+A music player doesn't have to feel like a file manager.
+
+It doesn't have to be covered in advertisements.
+
+It doesn't have to constantly ask what you should listen to next.
+
+And it doesn't have to forget that there is a human being on the other side of the screen.
+
+So I started building.
+
+First the interface.
+
+Then the player.
+
+Then the visual system.
+
+Then the audio tools.
+
+Then the analytics.
+
+Then the things that I probably didn't need...
+
+but couldn't stop thinking about.
+
+And somewhere along the way,
+
+**Void Player became a real project.**
+
+---
+
+# 36 · THE PHILOSOPHY
+
+There are countless music applications.
+
+Some are bigger.
+
+Some are faster.
+
+Some have more users.
+
+Some have budgets larger than anything an independent developer could imagine.
+
+Void Player isn't trying to win that race.
+
+It is trying to answer a different question:
+
+> **What would a music player look like if it was built around the listener instead of the platform?**
+
+That question is still being explored.
+
+---
+
+# 37 · WHAT VOID MEANS
+
+Void isn't about emptiness.
+
+It is about space.
+
+Space between the songs.
+
+Space inside the interface.
+
+Space where nothing is demanding your attention.
+
+A quiet place where your music can exist without having to compete with everything else.
+
+That's what the name means to me.
+
+**Void is not the absence of sound.**
+
+**It is the space that lets sound exist.**
+
+---
+
+# 38 · THE LAST SONG
+
+It is late now.
+
+The room is quiet again.
+
+The song reaches its final seconds.
+
+The progress line reaches the end.
+
+The artwork slows down.
+
+And eventually...
+
+silence.
+
+But the music doesn't really disappear.
+
+Because some songs aren't just played.
+
+They're remembered.
+
+And maybe that's the reason we keep coming back to them.
+
+---
+
+# 39 · SYSTEM STATUS
+
+text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│                    V O I D  S Y S T E M                  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  AUDIO        ● ONLINE                                   │
+│  VISUALS      ● ONLINE                                   │
+│  LIBRARY      ● READY                                    │
+│  ANALYTICS    ● READY                                    │
+│  PERSONAL     ● ACTIVE                                   │
+│                                                          │
+│  BUILD        16.09.09 — AURORA                          │
+│  RELEASE      v1.0.0                                     │
+│  PLATFORM     ANDROID                                    │
+│  STATUS       PUBLIC                                     │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+
+
+The system is ready.
+
+But the story isn't finished.
+
+
+# 40 · THE MANIFESTO
+
+We don't need another music feed.
+
+We don't need another algorithm deciding what deserves our attention.
+
+We don't need another advertisement interrupting the one song we actually wanted to hear.
+
+Sometimes...
+
+we just need our music.
+
+Our library.
+
+Our headphones.
+
+And a quiet place to listen.
+
+---
+
+## WE BELIEVE
+
+**Music should belong to the listener.**
+
+**An interface should disappear when the music begins.**
+
+**Technology should feel personal.**
+
+**Small details matter.**
+
+**Offline doesn't mean outdated.**
+
+**Beautiful doesn't have to mean complicated.**
+
+And most importantly:
+
+> **A music player should make you want to listen.**
+
+---
+
+# 41 · THIS IS VOID PLAYER
+
+It started with a question.
+
+**What if a music player could feel like a place?**
+
+Not just a collection of buttons.
+
+Not just a list of files.
+
+Not just another screen on a phone.
+
+A place.
+
+Something quiet.
+
+Something personal.
+
+Something that changes with the music.
+
+That question became Void Player.
+
+And this is only the beginning.
+
+---
+
+# 42 · THE NEXT CHAPTER
+
+Void Player is still evolving.
+
+There are things left to improve.
+
+Things left to discover.
+
+Ideas that haven't been built yet.
+
+And probably a few ideas that should never be built...
+
+but somehow will be.
+
+Because that's what happens when you start creating something of your own.
+
+The project keeps moving.
+
+So does the person behind it.
+
+---
+
+# 43 · ENTER THE VOID
+
+The system is ready.
+
+The music is waiting.
+
+The only thing left...
+
+is to press play.
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/SHAHILShakya/Void-Player/releases/latest">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20GET%20VOID%20PLAYER-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="Get Void Player">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/SHAHILShakya/Void-Player">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Source">
+</a>
+
+</p>
+
+<p align="center">
+  <sub>Latest public release · v1.0.0 · Android</sub>
+</p>
+
+---
+
+# 44 · VOID / AURORA
+
+text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│                    V O I D  P L A Y E R                  │
+│                                                          │
+│                       A U R O R A                        │
+│                                                          │
+│             YOUR MUSIC. BEAUTIFULLY PLAYED.              │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  RELEASE       v1.0.0                                    │
+│  APP BUILD     16.09.09 — AURORA                         │
+│  PLATFORM      ANDROID                                   │
+│  MODE          OFFLINE                                   │
+│                                                          │
+│  AUDIO         ● ONLINE                                  │
+│  VISUALS       ● ONLINE                                  │
+│  LIBRARY       ● READY                                   │
+│  ANALYTICS     ● READY                                   │
+│  PERSONAL      ● ACTIVE                                  │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
+
+
+<br>
+
+<p align="center">
 
 ### Your Music. Beautifully Played.
 
-**Version 16.09.09 — Aurora**
+<br>
 
-An independent offline music player experience focused on:
+**Void Player**
 
-`Music · Atmosphere · Playback · Audio · Personalization · Analytics
+<br>
+
+*Built with curiosity, code, music, and far too much attention to tiny details.*
+
+<br>
+
+**— Shayu 🇮🇳**
+
+</p>
 
 ---
 
 <p align="center">
-
-**Made with curiosity, music, and far too much attention to tiny details.**
-
-♡ **Void Player**
-
+  <sub>© Void Player · Independent Project · 2026</sub>
 </p>
