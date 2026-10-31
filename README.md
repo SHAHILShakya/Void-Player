@@ -1,38 +1,21 @@
-from pathlib import Path
-
-content = r'''<!--
-  VOID PLAYER
-  MIRAGE v3 · Version 3.0.0
-  Official project README
--->
-
 <div align="center">
 
-  <h1>VOID PLAYER</h1>
-  <h3>MIRAGE v3 · Version 3.0.0</h3>
+# VOID PLAYER
 
-  <p><strong>A more personal way to experience your music.</strong></p>
+### MIRAGE v3 · Version 3.0.0
 
-  <p>
-    An offline-first Android music player focused on immersive visuals,
-    thoughtful customization, and a listening experience that feels like your own.
-  </p>
+**Your music. Your identity. Your experience.**
 
-  <p>
-    <img src="https://img.shields.io/badge/Release-MIRAGE%20v3-8B5CF6?style=for-the-badge" alt="MIRAGE v3">
-    <img src="https://img.shields.io/badge/Version-3.0.0-111827?style=for-the-badge" alt="Version 3.0.0">
-    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-    <img src="https://img.shields.io/badge/Experience-Offline%20Music-475569?style=for-the-badge" alt="Offline music">
-  </p>
+An offline-first Android music player shaped around immersive artwork, thoughtful personalization, and a listening experience that feels like your own.
 
-  <p>
-    <a href="#-overview">Overview</a> ·
-    <a href="#-visual-showcase">Screenshots</a> ·
-    <a href="#-features">Features</a> ·
-    <a href="#-mirage-v3">MIRAGE v3</a> ·
-    <a href="#-project-structure">Project</a> ·
-    <a href="#-getting-started">Getting started</a>
-  </p>
+<br>
+
+![Release](https://img.shields.io/badge/Release-MIRAGE%20v3-8B5CF6?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-3.0.0-111827?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Offline--First-64748B?style=for-the-badge)
+
+[Overview](#-overview) · [Screenshots](#-visual-showcase) · [Features](#-experience--features) · [MIRAGE-v3](#-mirage-v3) · [Getting Started](#-getting-started) · [Security](#-privacy--security)
 
 </div>
 
@@ -40,166 +23,163 @@ content = r'''<!--
 
 ## 🎧 Overview
 
-**VOID PLAYER** is an Android music player built for people who want more than a basic list of audio files and a play button.
+**VOID PLAYER** is an Android music player designed to make listening to music stored on your device feel more personal and immersive.
 
-Its goal is to make listening to locally stored music feel immersive, personal, and visually coherent. The experience brings together a music library, playback controls, artwork-focused player designs, appearance customization, and personal touches for individual songs.
+It brings together a local music collection, an artwork-focused player, visual customization, and song-level personalization in one experience. Instead of treating music as a simple list of files, VOID PLAYER gives the library and the act of listening a visual identity of their own.
 
-VOID PLAYER follows an **offline-first direction**: its core listening experience is designed around music available on the user's device rather than requiring a streaming subscription.
+The project follows an **offline-first direction**: its core listening experience is centered on locally available music, not on requiring a streaming subscription.
 
-The interface uses a dark, premium visual language with glass-inspired surfaces, artwork-led presentation, and configurable visual elements.
+### The philosophy
 
-### The idea
+> Music is personal. The space in which you experience it should be personal, too.
 
-> Your music should feel like your space.
+VOID PLAYER is guided by three ideas:
 
-VOID PLAYER is shaped around three principles:
-
-- **Personal:** make the listening experience reflect individual taste.
-- **Immersive:** give album artwork and playback a distinctive visual presence.
-- **Practical:** keep everyday music-library and playback interactions accessible.
+- **Personal** — make room for individual taste and song-level details.
+- **Immersive** — give artwork and playback a distinctive visual presence.
+- **Practical** — keep everyday library navigation and listening controls within reach.
 
 ---
 
-## ✨ Highlights
+## ✨ At a glance
 
-| Area | What it brings |
+| Experience | Description |
 |---|---|
-| Local music library | Browse and listen to audio stored on the device |
-| Full-screen player | An artwork-focused listening interface with playback controls |
-| Artwork presentation | Classic Vinyl and Squaricle Liquid Glass styles |
-| Appearance settings | Personalize the app's visual experience |
-| Song customization | Personalize supported song information and comments |
-| Listening utilities | Tools such as the sleep timer and equalizer |
-| Music insights | Dedicated VOID Analytics experience |
-| Creative workspace | VOID Studio experience |
-| Dynamic visuals | Artwork-aware visual styling and accent colors |
+| Local music library | Browse and play supported audio stored on your device |
+| Full-screen player | Artwork-led playback with track information and controls |
+| Artwork styles | Classic Vinyl and Squaricle Liquid Glass |
+| Personalization | Customize supported song details and add personal comments |
+| Appearance | Adjust the visual presentation and listening environment |
+| Listening tools | Sleep Timer, Equalizer, and additional track options |
+| VOID Analytics | A dedicated space for music-related insights |
+| VOID Studio | A separate creative workspace within the app |
 
 ---
 
 ## 🖼️ Visual Showcase
 
-Explore the interface through the galleries below. Each gallery is arranged horizontally so screenshots can be browsed side by side.
+A look inside VOID PLAYER. The galleries below place related screens side by side so you can compare the interface and explore each area.
 
-### 01 · Home & Music Collection
+### 01 — Home & Collection
 
-The starting point for the listening experience: discover the music available in your collection and move through the app's library spaces.
+The starting point of the experience: the home screen, your music collection, and the ideas behind VOID PLAYER.
 
 <table>
   <tr>
-    <td align="center">
-      <img src="screenshots/HomeScreen.png" width="190" alt="VOID PLAYER home screen">
-      <br><strong>Home Screen</strong>
-      <br><sub>The main listening hub</sub>
+    <td align="center" valign="top">
+      <img src="screenshots/HomeScreen.png" width="210" alt="VOID PLAYER home screen">
+      <br><b>Home Screen</b>
+      <br><sub>Your listening hub</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/CollectionSpace.png" width="190" alt="VOID PLAYER Collection Space">
-      <br><strong>Collection Space</strong>
-      <br><sub>Your music collection</sub>
+    <td align="center" valign="top">
+      <img src="screenshots/CollectionSpace.png" width="210" alt="VOID PLAYER Collection Space">
+      <br><b>Collection Space</b>
+      <br><sub>Your music library</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/WhyVoid.png" width="190" alt="Why VOID PLAYER">
-      <br><strong>Why VOID</strong>
-      <br><sub>The product experience</sub>
+    <td align="center" valign="top">
+      <img src="screenshots/WhyVoid.png" width="210" alt="Why VOID PLAYER screen">
+      <br><b>Why VOID</b>
+      <br><sub>The product philosophy</sub>
     </td>
   </tr>
 </table>
 
-### 02 · Listening Experience
+### 02 — The Listening Experience
 
-The player is designed to keep the current track, artwork, and playback actions at the center of attention.
+A focused player interface, additional track actions, and a timer for more intentional listening.
 
 <table>
   <tr>
-    <td align="center">
-      <img src="screenshots/FullScreenPlayer.png" width="190" alt="VOID PLAYER full-screen player">
-      <br><strong>Full Screen Player</strong>
+    <td align="center" valign="top">
+      <img src="screenshots/FullScreenPlayer.png" width="210" alt="VOID PLAYER full-screen player">
+      <br><b>Full-Screen Player</b>
       <br><sub>Artwork-led playback</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/MoreOptions.png" width="190" alt="VOID PLAYER more options">
-      <br><strong>More Options</strong>
+    <td align="center" valign="top">
+      <img src="screenshots/MoreOptions.png" width="210" alt="VOID PLAYER more options">
+      <br><b>More Options</b>
       <br><sub>Additional track actions</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/SleepTimer.png" width="190" alt="VOID PLAYER sleep timer">
-      <br><strong>Sleep Timer</strong>
+    <td align="center" valign="top">
+      <img src="screenshots/SleepTimer.png" width="210" alt="VOID PLAYER sleep timer">
+      <br><b>Sleep Timer</b>
       <br><sub>Timed listening</sub>
     </td>
   </tr>
 </table>
 
-### 03 · Artwork & Personalization
+### 03 — Artwork & Personalization
 
-Give the player a distinct visual identity and add personal details to individual songs.
+Make the experience feel more like yours with song customization and personal details.
 
 <table>
   <tr>
-    <td align="center">
-      <img src="screenshots/CustomizeSong.png" width="190" alt="VOID PLAYER Customize Song">
-      <br><strong>Customize Song</strong>
-      <br><sub>Individual song customization</sub>
+    <td align="center" valign="top">
+      <img src="screenshots/CustomizeSong.png" width="210" alt="VOID PLAYER Customize Song">
+      <br><b>Customize Song</b>
+      <br><sub>Song-level customization</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/SongComment.png" width="190" alt="VOID PLAYER song comment">
-      <br><strong>Song Comment</strong>
+    <td align="center" valign="top">
+      <img src="screenshots/SongComment.png" width="210" alt="VOID PLAYER song comment">
+      <br><b>Song Comment</b>
       <br><sub>A personal note for a track</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/Personalization.png" width="190" alt="VOID PLAYER personalization">
-      <br><strong>Personalization</strong>
-      <br><sub>Personal listening preferences</sub>
+    <td align="center" valign="top">
+      <img src="screenshots/Personalization.png" width="210" alt="VOID PLAYER personalization">
+      <br><b>Personalization</b>
+      <br><sub>Your listening preferences</sub>
     </td>
   </tr>
 </table>
 
-### 04 · Appearance & Settings
+### 04 — Appearance & Settings
 
-Adjust the look and feel of the player through its appearance and experience settings.
+Explore the visual options and settings that shape the app experience.
 
 <table>
   <tr>
-    <td align="center">
-      <img src="screenshots/Appearance.png" width="190" alt="VOID PLAYER appearance settings">
-      <br><strong>Appearance</strong>
-      <br><sub>Visual presentation options</sub>
+    <td align="center" valign="top">
+      <img src="screenshots/Appearance.png" width="210" alt="VOID PLAYER appearance settings">
+      <br><b>Appearance</b>
+      <br><sub>Visual presentation</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/Experience.png" width="190" alt="VOID PLAYER experience settings">
-      <br><strong>Experience</strong>
-      <br><sub>Listening experience options</sub>
+    <td align="center" valign="top">
+      <img src="screenshots/Experience.png" width="210" alt="VOID PLAYER experience settings">
+      <br><b>Experience</b>
+      <br><sub>Listening preferences</sub>
     </td>
-    <td align="center">
-      <img src="screenshots/Settings.png" width="190" alt="VOID PLAYER settings">
-      <br><strong>Settings</strong>
+    <td align="center" valign="top">
+      <img src="screenshots/Settings.png" width="210" alt="VOID PLAYER settings">
+      <br><b>Settings</b>
       <br><sub>App configuration</sub>
     </td>
   </tr>
 </table>
 
-### 05 · Insights, Studio & App Information
+### 05 — Insights, Studio & Information
 
-Additional spaces for exploring listening information, creative tools, and application details.
+Beyond playback: dedicated spaces for insights, creative tools, and app information.
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="screenshots/VoidAnalytics.png" width="190" alt="VOID Analytics">
-      <br><strong>VOID Analytics</strong>
-      <br><sub>Listening insights</sub>
+      <br><b>VOID Analytics</b>
+      <br><sub>Music-related insights</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="screenshots/VoidStudio.png" width="190" alt="VOID Studio">
-      <br><strong>VOID Studio</strong>
+      <br><b>VOID Studio</b>
       <br><sub>Creative workspace</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="screenshots/Developer.png" width="190" alt="VOID PLAYER developer information">
-      <br><strong>Developer</strong>
+      <br><b>Developer</b>
       <br><sub>Project information</sub>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="screenshots/NewUpdate.png" width="190" alt="VOID PLAYER What's New">
-      <br><strong>What's New</strong>
+      <br><b>What's New</b>
       <br><sub>Release highlights</sub>
     </td>
   </tr>
@@ -207,56 +187,60 @@ Additional spaces for exploring listening information, creative tools, and appli
 
 ---
 
-## 🚀 Features
+## 🚀 Experience & Features
 
 ### 🎵 Local Music Library
 
-VOID PLAYER is built around music stored on the device.
+VOID PLAYER is centered on music available on your device.
 
-- Access supported local audio files through the app's music-library experience.
-- Browse and navigate the available collection.
-- Open tracks in the player and use the existing playback controls.
-- Keep the core listening experience focused on locally available music.
+- Browse your supported local audio collection.
+- Navigate your music through the app's library experience.
+- Open tracks in the player and use the available playback controls.
+- Keep your everyday listening experience focused on your own music.
 
-### 🎚️ Full-Screen Listening Experience
+### 🎚️ Full-Screen Player
 
-The full-screen player gives the currently playing track a dedicated space.
+The full-screen player gives the currently playing track a dedicated visual space.
 
 - Artwork-focused presentation.
 - Track information and playback controls.
-- Multiple artwork presentation styles.
 - Progress and seeking interactions.
-- A visual experience designed to complement the current music artwork.
+- Multiple artwork presentation styles.
+- Visual styling designed to complement the current listening experience.
 
 ### 💿 Classic Vinyl
 
-Classic Vinyl presents album artwork inside a circular, record-inspired composition.
+A record-inspired artwork presentation that gives album art a circular visual treatment.
 
-- Circular artwork presentation.
+- Circular artwork composition.
 - Vinyl-inspired rings and visual details.
-- Rotation behavior associated with playback.
-- A distinctive alternative to a conventional square album-art layout.
+- Playback-associated rotation behavior.
+- An alternative to the conventional square artwork layout.
 
 ### 🧊 Squaricle Liquid Glass
 
-Squaricle Liquid Glass offers a rounded-square artwork presentation with a layered, glass-inspired visual treatment.
+A rounded-square artwork presentation with a layered, glass-inspired visual identity.
 
 - Rounded-square artwork framing.
 - Translucent, glass-inspired presentation.
-- A separate visual identity from Classic Vinyl.
-- Designed to work with the app's artwork and accent-color experience.
+- A visual style distinct from Classic Vinyl.
+- Designed to complement the app's artwork-led experience.
 
-### 🎨 Appearance & Experience Customization
+### 🎨 Appearance & Experience
 
-The appearance settings provide ways to personalize the player's visual environment.
+VOID PLAYER includes customization for the visual environment and listening experience.
 
-The project includes static and live background concepts, artwork styles, and progress-line presentation options. The exact options available depend on the current app build.
+The project includes static and live background concepts, artwork styles, progress-line presentation options, and artwork-aware accent-color behavior. The exact options available can vary by app build.
 
-The visual system is designed to work with VOID PLAYER's existing dynamic accent-color behavior rather than forcing one fixed color scheme across every track.
+Examples of background concepts include:
+
+**Static:** Void Silk · Obsidian Glass · Aurora Void · Liquid Metal · Cosmic Void
+
+**Live:** Void Particles · Void Atmosphere · Neural Threads · Pulse Grid · Live Heart
 
 ### ✍️ Song Personalization
 
-The Customize Song experience brings personal editing closer to the music itself.
+The Customize Song experience brings individual-track details closer to the listener.
 
 Supported customization areas include:
 
@@ -265,68 +249,63 @@ Supported customization areas include:
 - Personal song comment.
 - Artwork customization workflow.
 
-These controls are intended to let users add their own personal touch to individual tracks.
-
 ### ⏱️ Listening Utilities
 
-VOID PLAYER includes additional listening tools, including:
+Additional listening tools include:
 
-- Sleep Timer.
-- Equalizer and preset controls.
-- Additional track options and playback-related utilities.
+- **Sleep Timer** — set a listening time limit.
+- **Equalizer** — access audio adjustment controls.
+- **Track options** — reach additional actions for individual songs.
 
 ### 📊 VOID Analytics
 
-VOID Analytics is a dedicated area for music-related insights within the app.
+A dedicated area for music-related insights within the VOID PLAYER experience.
 
 ### 🛠️ VOID Studio
 
-VOID Studio is a separate creative/workspace area within the VOID PLAYER experience.
+A separate creative workspace included as part of the app.
 
 ---
 
 ## 🌌 MIRAGE v3
 
-**MIRAGE v3 · Version 3.0.0** is the current release identity documented by this repository.
+**MIRAGE v3 · Version 3.0.0** is the release identity documented by this repository.
 
-The MIRAGE v3 direction focuses on a more personal listening experience, artwork presentation, and visual refinement.
+This release direction brings the product's listening experience, artwork presentation, and personalization together under one identity.
 
-### Release identity
-
-| Property | Value |
+| Release detail | Value |
 |---|---|
 | Product | VOID PLAYER |
-| Release name | MIRAGE v3 |
+| Release | MIRAGE v3 |
 | Version name | `3.0.0` |
 | Platform | Android |
 | Product direction | Offline-first music player |
 
-### MIRAGE v3 focus areas
+### Release focus
 
-- Song-level personalization.
-- Artwork customization experience.
-- Classic Vinyl visual refinement.
-- Squaricle Liquid Glass visual identity.
-- Artwork-aware dynamic accent colors.
-- Continued attention to visual consistency and playback reliability.
+- A more personal song-customization experience.
+- Artwork customization workflow.
+- Classic Vinyl and Squaricle Liquid Glass presentation.
+- Artwork-aware visual styling.
+- Continued attention to usability, consistency, and playback reliability.
 
-For the exact changes included in a published build, see the repository's [Releases](https://github.com/SHAHILShakya/Void-Player/releases) page and release notes.
+For the exact contents of a downloadable build, refer to its release notes once a GitHub Release is published.
 
 ---
 
 ## 🧭 Product Direction
 
-VOID PLAYER is being developed as a personal music environment rather than just a basic audio-file browser.
+VOID PLAYER is being developed as a personal music environment, not merely a basic audio-file browser.
 
-The broader direction is to keep improving:
+The ongoing direction is to improve:
 
-- The local music-library experience.
+- Local music-library navigation.
 - Artwork and player presentation.
 - Personalization at the individual-song level.
 - Appearance and listening preferences.
-- Reliability, performance, and day-to-day usability.
+- Reliability, performance, and everyday usability.
 
-Future ideas and planned work may change as development progresses. A planned feature should not be considered available until it is implemented and included in a release.
+Ideas under consideration are not promises of availability. A feature should be treated as released only when it is implemented, tested, and included in a published build.
 
 ---
 
@@ -334,110 +313,102 @@ Future ideas and planned work may change as development progresses. A planned fe
 
 VOID PLAYER is an Android application.
 
-This repository is intended to contain the project's source code and supporting documentation. Detailed technical information should be maintained alongside the actual implementation, including:
+Detailed implementation information will be documented after the complete source tree is published and reviewed. This section will then identify the verified:
 
-- Build system and required toolchain.
 - Programming languages and UI framework.
+- Build system and required toolchain.
 - Audio playback and media-session architecture.
 - Local data and persistence layer.
-- Image and artwork-loading pipeline.
-- Permission and storage behavior.
+- Artwork and image-loading pipeline.
+- Permissions and storage behavior.
 
-**Implementation note:** Only technologies and dependencies verified in the source code should be listed here. Do not infer the technology stack from the app's appearance or feature set.
+**Accuracy matters:** this README does not guess the technology stack from the app's appearance. Only technologies and dependencies confirmed in the source code should be listed here.
 
 ---
 
 ## 📦 Getting Started
 
-The source repository is being organized for public development.
+The public source repository is being prepared.
 
-Once the complete source tree and build configuration are published, this section should contain verified setup instructions.
+Build instructions will be added after the Android project source and its build configuration have been published and verified. The completed guide will cover:
 
-A complete setup guide should document:
+1. Required development tools and Android SDK versions.
+2. Cloning the repository.
+3. Opening and syncing the project.
+4. Any required local configuration.
+5. Building and running the app.
+6. Creating a release build.
 
-1. Required Android development tools and SDK versions.
-2. How to clone the repository.
-3. How to open and sync the project.
-4. Required local configuration, if any.
-5. How to build and run the application.
-6. How to generate a release build.
-
-Do not add API keys, signing credentials, keystores, passwords, or machine-specific configuration files to the repository.
+Do not place API keys, access tokens, signing credentials, keystores, or machine-specific configuration files in the repository.
 
 ---
 
 ## 📱 Releases
 
-Official release information and downloadable builds, when published, will be available through:
+Official builds and release notes will be published through GitHub Releases when available.
 
-**[VOID PLAYER · GitHub Releases](https://github.com/SHAHILShakya/Void-Player/releases)**
+**[View VOID PLAYER Releases](https://github.com/SHAHILShakya/Void-Player/releases)**
 
-Each release should identify:
-
-- Release name.
-- Version name and version code where relevant.
-- Release date.
-- New features.
-- Improvements.
-- Bug fixes.
-- Known limitations.
-- Supported download artifacts.
+Each release should document its version, release date, new features, improvements, bug fixes, known limitations, and downloadable artifacts.
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Contents
 
-The repository is intended to keep source code, visual references, and documentation organized.
+The repository currently includes the project README and the visual screenshot collection. The Android source tree and verified build documentation are still to be added.
 
 ```text
 Void-Player/
-│
 ├── README.md
-├── screenshots/
-│   ├── HomeScreen.png
-│   ├── CollectionSpace.png
-│   ├── FullScreenPlayer.png
-│   ├── CustomizeSong.png
-│   └── ...
-│
-├── Documentation/
-│   └── Project documentation
-│
-├── Releases/
-│   └── Release-related resources
-│
-└── Android project source
+└── screenshots/
+    ├── Appearance.png
+    ├── CollectionSpace.png
+    ├── CustomizeSong.png
+    ├── Developer.png
+    ├── Experience.png
+    ├── FullScreenPlayer.png
+    ├── HomeScreen.png
+    ├── MoreOptions.png
+    ├── NewUpdate.png
+    ├── Personalization.png
+    ├── Settings.png
+    ├── SleepTimer.png
+    ├── SongComment.png
+    ├── VoidAnalytics.png
+    ├── VoidStudio.png
+    └── WhyVoid.png
 ```
 
-The tree above describes the intended documentation layout. Actual directories may differ as the source repository is populated.
+This tree reflects the currently documented repository contents, not the final Android source layout.
 
 ---
 
-## 🤝 Contributions
+## 🤝 Contributing & Feedback
 
-The project is currently maintained by its creator.
+Issues and thoughtful suggestions help improve the project.
 
-If you want to report an issue or suggest an improvement:
+When reporting a problem, include:
 
-1. Check whether the issue has already been reported.
-2. Include the app version and device/Android details where relevant.
-3. Describe the steps needed to reproduce the issue.
-4. Include screenshots or logs when they help explain the problem.
-5. Never include private user data, API secrets, or signing credentials in an issue.
+1. The app version.
+2. Device model and Android version.
+3. Steps to reproduce the issue.
+4. Expected and actual behavior.
+5. Screenshots or logs, when useful.
 
-Contribution guidelines may be added as the public source repository matures.
+Please remove personal information and secrets from logs before sharing them. Contribution instructions may be expanded as the source repository matures.
 
 ---
 
 ## 🔐 Privacy & Security
 
-When contributing or publishing code:
+Help keep the project and its users safe.
 
 - Never commit API keys, access tokens, passwords, or private credentials.
-- Never commit Android signing keystores or their passwords.
+- Never commit signing keystores or keystore passwords.
 - Keep machine-specific local configuration out of version control.
-- Review logs and screenshots for personal information before publishing.
-- Report security-sensitive issues privately rather than posting exploitable details publicly.
+- Review screenshots, logs, and sample data for personal information.
+- Avoid publishing private user data in issues or discussions.
+- Report security-sensitive vulnerabilities privately rather than posting exploitable details publicly.
 
 ---
 
@@ -445,9 +416,9 @@ When contributing or publishing code:
 
 **No license has been selected for this repository yet.**
 
-Until a license is added, the source code remains subject to applicable copyright law. Public visibility does not automatically grant permission to copy, modify, redistribute, or use the code commercially.
+Until a license is added, the source code remains subject to applicable copyright law. Making a repository public does not automatically grant permission to copy, modify, redistribute, or use its code commercially.
 
-A license will be added once the project owner has selected the intended terms.
+The project owner will add a license after deciding the intended terms.
 
 ---
 
@@ -455,27 +426,21 @@ A license will be added once the project owner has selected the intended terms.
 
 **SHAHIL BAUDH [SHAYU]**
 
-Creator and developer of VOID PLAYER.
+Creator of VOID PLAYER.
 
 - GitHub: [@SHAHILShakya](https://github.com/SHAHILShakya)
-- Project: [VOID PLAYER](https://github.com/SHAHILShakya/Void-Player)
+- Repository: [VOID PLAYER](https://github.com/SHAHILShakya/Void-Player)
 
 ---
 
 <div align="center">
 
-  <h2>VOID PLAYER</h2>
-  <h3>MIRAGE v3 · 3.0.0</h3>
+## VOID PLAYER
 
-  <p><strong>Your music. Your identity. Your experience.</strong></p>
+### MIRAGE v3 · 3.0.0
 
-  <sub>Built with care. Designed around the way you listen.</sub>
+**Your music. Your identity. Your experience.**
+
+<sub>Designed around the way you listen.</sub>
 
 </div>
-'''
-
-path = Path("/mnt/data/VOID-PLAYER-README-FULL.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created: {path}")
-print(f"Size: {path.stat().st_size:,} bytes")
-print(f"Lines: {len(content.splitlines())}")
